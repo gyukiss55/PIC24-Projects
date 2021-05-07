@@ -1,0 +1,1 @@
+ -c -mcpu=$(MP_PROCESSOR_OPTION)        -g -omf=elf -DXPRJ_default=$(CND_CONF)  -legacy-libc  $(COMPARISON_BUILD)  -O0 -msmart-io=1 -Wall -msfr-warn=off    -mdfp="${DFP_DIR}/xc16"D:\MPLABXProjects\PIC24FJ64GA002_Test\PIC24FJ64GA002_Test4.X\PIC24Fj64GY002_SPI_Test4.c
